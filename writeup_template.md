@@ -47,7 +47,8 @@ I started by reading in all the `vehicle` and `non-vehicle` images.  Here is an 
 
 I explored different color spaces and other parameters (`orientations`, `pixels_per_cell`, and `cells_per_block`).  Below is the example of gray images and hog images of the car and non car image
 
-![car gray](https://github.com/devksingh/P5_Vehicles_Detection_Tracking/blob/master/images/car_gray.png) ![car hog] (https://github.com/devksingh/P5_Vehicles_Detection_Tracking/blob/master/images/hog-image.png)
+![car gray](https://github.com/devksingh/P5_Vehicles_Detection_Tracking/blob/master/images/car_gray.png) 
+![car hog](https://github.com/devksingh/P5_Vehicles_Detection_Tracking/blob/master/images/hog-image.png)
 ![non car gray](https://github.com/devksingh/P5_Vehicles_Detection_Tracking/blob/master/images/non_car_gray.png) ![non car hog](https://github.com/devksingh/P5_Vehicles_Detection_Tracking/blob/master/images/non_car_hog.png)
 
 ####2. Explain how you settled on your final choice of HOG parameters.
