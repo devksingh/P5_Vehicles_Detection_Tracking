@@ -118,4 +118,4 @@ The biggest problem I faced was performance of the program as the slide window s
 2. If possible car found then check only positions near to that car position for next 3 frames
 3. If car is present in all the three frames then draw the box
 4. Recalculate and update the box after six frame
-This improved my performace and output because less wobbly.
+This improved the performace to a great extent and output boxes became less wobbly.
