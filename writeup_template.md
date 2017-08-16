@@ -86,7 +86,7 @@ I have already explained how I chose HOG feature, For choosing best color histog
 
 ### Video Implementation
 
-####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
+####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.) 
 
 Here's a [link to my video result](https://github.com/devksingh/P5_Vehicles_Detection_Tracking/blob/master/project_video_result_final.mp4)
 I have also combined advance lane detection with this project. It worked well with project_video and challenge_video. I have uploaded the findlanelines.py code as well.
